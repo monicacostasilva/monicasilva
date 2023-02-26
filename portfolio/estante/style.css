@@ -1,0 +1,111 @@
+body {
+	background-color: seashell;
+		}
+
+h1 {
+	color: darkred;
+	text-align: center;
+	font-family: candara;
+	font-size: 250%;		
+	}		
+		
+h4 {
+	text-align: center; 
+	font-family: calibri;
+}
+
+.inicio {
+	background-color: brown;
+	padding-left: 50px;
+	padding-right: 8px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	border-radius: 20px;
+}
+
+h2 {
+	color: snow; 
+	font-family: arial;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: bisque;
+}
+
+a:hover {
+	color: maroon;
+}
+
+a:active {
+	color: darkred;
+}
+
+li{
+	font-family: arial;
+}
+
+section {
+	background-color: darksalmon;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 64px;
+	padding-top: 64px;
+	border-radius: 20px;
+}
+
+.tituloL {
+	font-family: Helvetica; 
+	font-size: 135%; 
+	color: maroon;
+}
+
+img {
+	width:20%;
+	display: block; /*para centralizar*/
+	margin: auto; /*para centralizar*/
+	border-radius: 20px;
+}
+
+.sinopseTitulo {
+	font-family: calibri; 
+	font-size: 130%;
+}
+
+.sinopse {
+	font-family: calibri; 
+	font-size: 105%;
+	text-align: justify;
+}
+
+span{
+	font-weight: bold;
+}
+
+table{
+	width: 100%;
+}
+
+tr {
+	font-family: calibri; 
+	text-align: center;
+	background-color: darkred;
+	color: snow;
+}
+
+td {
+	background-color: firebrick;
+}				
+
+td, th{
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+}
+
+		
+		
+

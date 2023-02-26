@@ -1,0 +1,112 @@
+/* texto hero image*/
+.hero_titulo {
+	font-size: 4.5rem;
+	font-family: 'Playfair Display', serif;
+}
+.hero_desc {
+	font-size: 2rem;
+}
+.hero-text {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: black;
+}
+.bgimage {
+	height: 100vh;
+	background: url('img/heroImage.jpg');
+	background-size: cover;
+	position: relative;
+}
+
+/* imagem sobre */
+.imagemSobre {
+	width: 100%;
+}
+
+/* serviços */
+.servicesText.card {
+	height: 280px;
+	cursor: pointer;
+}
+
+.servicesIcon {
+	font-size: 36px;
+	text-align: center;
+	width: 100%;
+}
+
+.card-title {
+	text-align: center;
+}
+
+.card:hover .servicesIcon{
+	color: #81223c;
+}
+
+.servicesText:hover {
+	border: 1px solid #81223c;
+}
+
+.card-body {
+	background-color: #c7475e;
+}
+
+/* menu */
+.navbar {
+	background-color: #8F1339;
+	font-family: 'Roboto Slab', serif;
+}
+
+.navbar a {
+	color: white;
+}
+
+.navbar a:hover {
+	color: black;
+	background-color: #ddd;
+}
+
+.contactIcon {
+	font-size: 56px;
+	color: black;
+	text-align: center;
+}
+
+.glass {
+	/* From https://css.glass */
+background: rgba(255, 255, 255, 0.22);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(0px);
+height: 40%;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+#sobre, #servicos, #portfolio, #contato {
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+
+.card-text {
+	text-align: center;
+}
+
+.divisao1 {
+	float: right;
+}
+
+section {
+	background-color: #c7475e;
+	font-family: 'Roboto Slab', serif;
+	color: black;
+}
+
+.textoJustify {
+	text-align: justify;
+}
