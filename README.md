@@ -19,4 +19,4 @@
 
 ## Glassmorphism
 
-<p align= "justify"> O glassmorphism é uma tendência do design via CSS que foi utilizado no projeto e criado no site https://css.glass/</p>
+<p align= "justify"> O glassmorphism é uma tendência do UI design desenvolvido via CSS que foi utilizado no projeto e criado no site https://css.glass/</p>
